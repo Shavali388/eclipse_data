@@ -3,8 +3,8 @@ package com.git.practice.login;
 public class Login {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("username");
+		System.out.println("pasword");
 	}
 
 }
